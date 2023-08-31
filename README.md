@@ -2,7 +2,7 @@
 # 👋🏽 Olá! Eu sou o Daniel Silva
 
 ## 🧑🏽‍💻 Sobre mim
-Sou um estudante de Análise e Desenvolvimento de Sistemas, e tive meu primeiro contato com programação através da linguagem Portugol. Em seguida, aprendi o básico de linguagens como C, C++, C# e Python. Atualmente, estou focado em estudar Orientação a Objetos utilizando Java, e também estou participando do bootcamp da DIO/Santander, onde estou aprendendo a linguagem Kotlin. Resido em Porto Seguro, na Bahia, e minha paixão por tecnologia vem desde a infância, quando adorava desmontar meus brinquedos para entender seu funcionamento interno.
+Sou um estudante de Análise e Desenvolvimento de Sistemas, e tive meu primeiro contato com programação através da linguagem Portugol. Em seguida, aprendi o básico de linguagens como C, C++, C# e Python. Atualmente, estou focado em estudar Orientação a Objetos utilizando Java, e também estou participando do bootcamp da DIO/Santander, onde estou aprendendo a linguagem Kotlin. Resido em Porto Seguro-Bahia, e minha paixão por tecnologia vem desde a infância, quando adorava desmontar meus brinquedos para entender seu funcionamento interno.
 
 ### Conecte-se comigo
 [![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://web.dio.me/users/dsdezessete/)
