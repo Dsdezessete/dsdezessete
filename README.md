@@ -2,7 +2,7 @@
 # 👋🏽 Olá! Eu sou o Daniel Silva
 
 ## 🧑🏽‍💻 Sobre mim
-Sou um estudante de Análise e Desenvolvimento de Sistemas, e tive meu primeiro contato com programação através da linguagem Portugol. Em seguida, aprendi o básico de linguagens como C, C++, C# e Python. Atualmente, estou focado em estudar Orientação a Objetos utilizando Java, e também estou participando do bootcamp da DIO/Santander, onde estou aprendendo a linguagem Kotlin. Resido em Porto Seguro-Bahia, e minha paixão por tecnologia vem desde a infância, quando adorava desmontar meus brinquedos para entender seu funcionamento interno.
+Sou um estudante de Análise e Desenvolvimento de Sistemas, e tive meu primeiro contato com programação através da linguagem Portugol. Atualmente, estou focado em estudar Orientação a Objetos utilizando Java. Resido em Porto Seguro-Bahia, e minha paixão por tecnologia vem desde a infância, quando adorava desmontar meus brinquedos para entender seu funcionamento interno.
 
 ### Conecte-se comigo
 [![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://web.dio.me/users/dsdezessete/)
@@ -14,15 +14,13 @@ Sou um estudante de Análise e Desenvolvimento de Sistemas, e tive meu primeiro 
 
 
 ### Hard Skills
-![Kotlin](https://img.shields.io/badge/kotlin-%23000000.svg?style=for-the-badge&logo=kotlin&logoColor=30A3DC)
 [![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)](https://git-scm.com/doc) 
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://docs.github.com/)
 ![Java](https://img.shields.io/badge/java-black.svg?style=for-the-badge&logo=openjdk&logoColor=red)
-![C](https://img.shields.io/badge/c-000.svg?style=for-the-badge&logo=c&logoColor=blue)
-![C#](https://img.shields.io/badge/c%23-000.svg?style=for-the-badge&logo=c-sharp&logoColor=blue)
-![C++](https://img.shields.io/badge/c++-000.svg?style=for-the-badge&logo=c%2B%2B&logoColor=purple)
-![Python](https://img.shields.io/badge/python-000?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Android](https://img.shields.io/badge/Android-000?style=for-the-badge&logo=android&logoColor=green)
+
+
+
+
 
 
 
