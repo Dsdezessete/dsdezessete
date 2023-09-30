@@ -1,5 +1,5 @@
 
-# 👋🏽 Olá! Eu sou o Daniel Silva
+# 👋🏽 Olá! Eu sou o Dani
 
 ## 🧑🏽‍💻 Sobre mim
 Sou um estudante de Análise e Desenvolvimento de Sistemas, e tive meu primeiro contato com programação através da linguagem Portugol. Atualmente, estou focado em estudar Orientação a Objetos utilizando Java. Resido em Porto Seguro-Bahia, e minha paixão por tecnologia vem desde a infância, quando adorava desmontar meus brinquedos para entender seu funcionamento interno.
