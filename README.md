@@ -2,8 +2,7 @@
 # 👋🏽 Olá! Eu sou o Dani
 
 ## 🧑🏽‍💻 Sobre mim
-Sou um estudante de Análise e Desenvolvimento de Sistemas, e tive meu primeiro contato com programação através da linguagem Portugol. Atualmente, estou focado em estudar Orientação a Objetos utilizando Java. Resido em Porto Seguro-Bahia, e minha paixão por tecnologia vem desde a infância, quando adorava desmontar meus brinquedos para entender seu funcionamento interno.
-
+Sou um estudante de Análise e Desenvolvimento de Sistemas, e tive meu primeiro contato com programação através da linguagem Portugol. Atualmente, estou focado em estudar Orientação a Objetos utilizando Java. 
 ### Conecte-se comigo
 [![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://web.dio.me/users/dsdezessete/)
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=E94D5F)](mailto:dsdezessete@gmail.com)
